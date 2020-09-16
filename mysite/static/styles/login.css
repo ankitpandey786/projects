@@ -1,0 +1,30 @@
+.body{
+    background-color: aqua;
+}
+.loginform{
+    
+    margin-top: 1%;
+    margin-left: 40%;
+}
+.heading{
+    margin-top: 15%;
+    margin-left: 42%;
+    font-family: cursive;
+}
+.form input{
+    border-style: none;
+    padding: 5px 5px 5px 5px;
+
+}
+.button{
+    
+    margin-left: 5%;
+    margin-top: 3%;
+    
+}
+.button:hover{
+    background-color: greenyellow;
+}
+.text{
+    margin-bottom: 1%;
+}
